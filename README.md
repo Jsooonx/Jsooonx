@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hi, I'm Gielang 👋<br><br>I'm a student from Indonesia passionate about learning how software and systems work.<br><br>Currently exploring **C, Python, and JavaScript**, and building projects to strengthen my understanding of **algorithms, computational thinking, and software development**.<br><br>I'm especially interested in areas like **machine learning, algorithmic programming, and building practical software tools**.
+### Hi, I'm Gielang 👋<br><br>I'm a student from Indonesia currently building my foundation in computer science through C, Python, and JavaScript.**<br><br>My work focuses on algorithms, computational problem solving, and practical software projects, with a growing interest in software systems and algorithm design.**.
 
 
 ## 🌐 Socials:
