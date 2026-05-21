@@ -1,9 +1,9 @@
 # About Me:
 ### Hi, I'm Gielang 👋
 
-I'm a student from Indonesia building my foundation in computer science through projects in C, Python, and JavaScript.
+I'm a CS builder from Indonesia, working on computer science fundamentals through projects in C, Python, and JavaScript. My work focuses on algorithms, computational problem solving, and practical software with a deep interest in software systems and algorithm design.
 
-My work focuses on algorithms, computational problem solving, and practical software projects, with a growing interest in software systems and algorithm design.
+Working with C, Python, and JavaScript. Focused on algorithms, systems, and building things that work.
 
 ## Contact:
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:elangacount15@gmail.com)
