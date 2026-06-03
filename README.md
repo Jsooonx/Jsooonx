@@ -1,7 +1,7 @@
 # About Me:
 ### Hi, I'm Gielang 👋
 
-I'm a CS builder from Indonesia, working on computer science fundamentals through projects in C, Python, and JavaScript. My work focuses on algorithms, computational problem solving, and practical software with a deep interest in software systems and algorithm design.
+I'm a CS builder and algorithms enthusiast from Indonesia, working on computer science fundamentals through projects in C, Python, and JavaScript. My work focuses on algorithms, computational problem solving, and practical software with a deep interest in software systems and algorithm design.
 
 Working with C, Python, and JavaScript. Focused on algorithms, systems, and building things that work.
 
